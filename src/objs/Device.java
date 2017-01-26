@@ -46,6 +46,7 @@ public class Device
 	public void setDevice(String device) {
 		this.device = device;
 	}
+	
 	/**
 	* Returns the count variable
 	* @return count - a value

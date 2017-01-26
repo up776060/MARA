@@ -58,6 +58,7 @@ public class AvgDistrPriceStats
 		return min;
 	}
 
+
 	/**
 		* Sets the value of min  variable
 		* @param min - a value

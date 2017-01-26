@@ -38,6 +38,7 @@ public class CodesPerCatStats
 	* Returns the string value of cat variable
 	* @return cat - a value
 	*/
+	
 	public String getCat() {
 		return cat;
 	}

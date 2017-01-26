@@ -61,6 +61,7 @@ public class AppRevCode
 		* Sets the value of application id variable
 		* @param appid - a value
 		*/
+		
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}

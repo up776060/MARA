@@ -59,6 +59,7 @@ public class Application
 		* Returns the no rates value
 		* @return norates
 		*/
+		
 	public double getNorates() {
 		return norates;
 	}
